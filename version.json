@@ -2,6 +2,6 @@
   "filename": "v2.1.2.exe",
   "version": "v2.1.2",
   "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.2/v2.1.2.exe",
-  "sha256": "59313C4E2CD42F372E9D713C6F0301E28D19CB7B47713CBFF682C4F412810E7E",
-  "notes": "批量账号设置保留各账号差异；修复切换挂机地点后怪物选择为空；每日开鉴定延后到买券等前置任务之后。"
+  "sha256": "8D2D0A900ED5DF4B5B48CA4434CB7CE3D1334503C492E53ED4F6E200FDA8CD09",
+  "notes": "恢复“帮助 → 检查更新”入口；批量账号设置保留各账号差异；修复切换挂机地点后怪物选择为空；每日开鉴定延后到买券等前置任务之后。"
 }
