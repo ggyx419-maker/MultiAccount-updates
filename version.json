@@ -1,7 +1,7 @@
 {
-  "filename": "v2.1.1.exe",
-  "version": "v2.1.1",
-  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.1/v2.1.1.exe",
-  "sha256": "20A3750E48FB63698ABFF7E23AEC25A6741333DC8119B60B1656248D06691A5F",
-  "notes": "永乐四海Multi v2.1.1"
+  "filename": "v2.1.2.exe",
+  "version": "v2.1.2",
+  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.2/v2.1.2.exe",
+  "sha256": "59313C4E2CD42F372E9D713C6F0301E28D19CB7B47713CBFF682C4F412810E7E",
+  "notes": "批量账号设置保留各账号差异；修复切换挂机地点后怪物选择为空；每日开鉴定延后到买券等前置任务之后。"
 }
