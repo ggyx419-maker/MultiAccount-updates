@@ -1,7 +1,7 @@
 {
-  "filename": "v2.1.2.exe",
-  "version": "v2.1.2",
-  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.2/v2.1.2.exe",
-  "sha256": "8D2D0A900ED5DF4B5B48CA4434CB7CE3D1334503C492E53ED4F6E200FDA8CD09",
-  "notes": "恢复“帮助 → 检查更新”入口；批量账号设置保留各账号差异；修复切换挂机地点后怪物选择为空；每日开鉴定延后到买券等前置任务之后。"
+  "filename": "v2.1.3.exe",
+  "version": "v2.1.3",
+  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.3/v2.1.3.exe",
+  "sha256": "C0B6A3AF119FCC09F544619D4782FA020E539EB5A3F08E38806B2EAB9FF8E260",
+  "notes": "新增临时任务与批量赠送、自动强化装备、三色球和海岛福利/争夺流程；修复赠送目标ID隐形字符、强化翻页及海岛确认链接等问题。"
 }
