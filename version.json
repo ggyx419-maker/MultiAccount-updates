@@ -1,7 +1,7 @@
 {
-  "filename": "v2.1.4.exe",
-  "version": "v2.1.4",
-  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.4/v2.1.4.exe",
-  "sha256": "7DB24C6A61961903F4550B2787B76A7169ECB6650CE1C5ED1975EACEA2947C76",
-  "notes": "维护发布：更新应用版本与在线更新清单至 v2.1.4，保留“帮助 → 检查更新”入口和 v2.1.3 现有功能。"
+  "filename": "v2.1.5.exe",
+  "version": "v2.1.5",
+  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.5/v2.1.5.exe",
+  "sha256": "E3896AB600E4D74CBFD2397E56123EAC371532677362C3B54F99FA9547B702F7",
+  "notes": "新增多账号物品统计与导出，优化临时任务购买、分组和参数交互；修复强化觉醒参数、每日清理装备出售及银行提款前退出牛山等问题。"
 }
