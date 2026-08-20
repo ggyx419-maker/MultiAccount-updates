@@ -1,7 +1,7 @@
 {
-  "filename": "v2.1.5.exe",
-  "version": "v2.1.5",
-  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.5/v2.1.5.exe",
-  "sha256": "E3896AB600E4D74CBFD2397E56123EAC371532677362C3B54F99FA9547B702F7",
-  "notes": "新增多账号物品统计与导出，优化临时任务购买、分组和参数交互；修复强化觉醒参数、每日清理装备出售及银行提款前退出牛山等问题。"
+  "filename": "v2.1.6.exe",
+  "version": "v2.1.6",
+  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.6/v2.1.6.exe",
+  "sha256": "5982073BB1074A36B8A3876DF87916CC29940E9B7E370CC47F49A4913F354418",
+  "notes": "新增物品统计显示别名与每场战斗材料掉落统计；竞拍购买和链接购买支持购买后自动提取；恢复踢球按钮三列布局；新增潜水寻宝批量按钮页面适配。"
 }
