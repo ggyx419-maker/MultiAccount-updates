@@ -1,7 +1,7 @@
 {
-  "filename": "v2.1.6.exe",
-  "version": "v2.1.6",
-  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.6/v2.1.6.exe",
-  "sha256": "5982073BB1074A36B8A3876DF87916CC29940E9B7E370CC47F49A4913F354418",
-  "notes": "新增物品统计显示别名与每场战斗材料掉落统计；竞拍购买和链接购买支持购买后自动提取；恢复踢球按钮三列布局；新增潜水寻宝批量按钮页面适配。"
+  "filename": "v2.1.7.exe",
+  "version": "v2.1.7",
+  "download_url": "https://github.com/ggyx419-maker/MultiAccount-updates/releases/download/v2.1.7/v2.1.7.exe",
+  "sha256": "3F24D699B3532AFFBBAAF37F12F0BD67F7EA48C47B5FBDB040DECA3DA185E767",
+  "notes": "新增农场助手并完善物品统计交互；修复临时任务、每日出售、Runner 持续重启和应用内更新流程。"
 }
